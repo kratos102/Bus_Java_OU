@@ -1,2 +1,5 @@
+com\ptk\configs\DispatcherServletInitializer.class
 com\ptk\busspringmvc\resources\JakartaEE8Resource.class
+com\ptk\controllers\HomeController.class
+com\ptk\configs\WebApplicationContextConfig.class
 com\ptk\busspringmvc\JakartaRestConfiguration.class
